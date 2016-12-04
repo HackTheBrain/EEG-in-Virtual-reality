@@ -1,6 +1,7 @@
 # ⚡️ EEG in VR
 EEG transformed into immersive sound and virtual reality environment
 
+
 ## Who
 *Filip Simonfy* - psychology/social science research/cognitive neuroscience graduate, background in mental health and data analysis, interest in contemporary audial and visual art
 
@@ -8,23 +9,25 @@ EEG transformed into immersive sound and virtual reality environment
 
 *Nikola Jajcay* - nonlinear pioneer and fellow data cruncher, in spare time also physicist/scientist 
 
+
 ## Why
-*Please describe why you do what you do. Why is your project relevant?*
+The project embodies the EEG signal in a simple and comprehensible manner, making the participants aware of the neural activity linked to ongoing mental processes in their brain. Additionally, by possibility to control the virtual environment in real time, participants can rehearse their attentional focus, following the neurofeedback paradigm.
+
 
 ## What
-EEG online data visualization and sonification.
+The project's aim is a transformation of online EEG data into audial and visual stimuli.
 
-The project embodies the EEG signal in simple and comprehensible manner, making the participants aware of their mental states. Additionally, by the possibility to control the virtual environment, the participants can rehearse their attentional focus.
+The sonification aspect involves 4 channels in which the parameters describing the signal are computed and used in pure data to generate sounds. The visual part of our project consists of meditative virtual environment presented in Oculus Rift VR. Participants connected to online EEG can control objects and the dynamics of the environment by their attention focus.
 
-Sonification part involves 4 channels in which the parameters describing the signal are computed and used in pure data to generate sounds.
+!["EEG visualized in VR"](http://i.imgur.com/50S32GZ.jpg)
+
 
 ## How
 
 In sonification part, the EEG cap is divided into left and right hemispheres and the data filtered to 1-16Hz and 16-40Hz, constituting 4 channels. In each channel, the spectral centroid and three Hjorth parameters are computed and transferred to pure data via OSC protocol, where these four parameters are used in the generative sound algorithm.
 
-The visual part of our project consists of meditative virtual environment presented in Oculus Rift VR. Participants connected to online EEG can control objects and speed of the environment by their attention focus.
+Visual part of the project builds upon the theta activity in parietal brain regions and the imagery evolves reflecting the current attentional focus of the participant.
 
-!["EEG visualized in VR"](http://i.imgur.com/50S32GZ.jpg)
 
 ## Ethical considerations
 
