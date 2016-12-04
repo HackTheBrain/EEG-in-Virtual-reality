@@ -26,7 +26,7 @@ The sonification aspect involves 4 channels in which the parameters describing t
 
 In sonification part, the EEG cap is divided into left and right hemispheres and the data filtered to 1-16Hz and 16-40Hz, constituting 4 channels. In each channel, the spectral centroid and three Hjorth parameters are computed and transferred to pure data via OSC protocol, where these four parameters are used in the generative sound algorithm.
 
-Visual part of the project builds upon the theta activity in parietal brain region (4-8Hz) and the imagery evolves reflecting the current attentional focus of the participant.
+Visual part of the project builds upon the theta activity in parietal brain region (4-8Hz) and the imagery evolves reflecting the current attentional focus of the participant. The focus is operationalized as the current level of theta activity relative to the total neural activity in the region.
 
 
 ## Ethical considerations
