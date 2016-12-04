@@ -1,9 +1,10 @@
-# EEG-data-viz
+# ⚡️⚡️⚡️
+EEG transformed into immersive sound and virtual reality environment
 
 ## Who
 *Filip Simonfy* - psychology/social science research/cognitive neuroscience graduate, background in mental health and data analysis, interest in contemporary audial and visual art
 
-*Michal Simonfy* - designer and visual artist with interest in interactive installations, data processing and human-computer interaction. 
+*Michal Simonfy* - designer and visual artist with interest in interactive installations, data processing, and human-computer interaction.
 
 *Nikola Jajcay* - scientist at Dept. of Nonlinear Dynamics and Complex Systems, Institute of Computer Science and National Institute of Mental Health
 
@@ -19,7 +20,9 @@ Sonification part involves 4 channels in which the parameters describing the sig
 
 ## How
 
-In sonification part the EEG cap is divided into left and right hemispheres and the data filtered to 1-16Hz and 16-40Hz, constituting 4 channels. In each channel, the spectral centroid and three Hjorth parameters are computed and transferred to pure data via OSC protocol, where these four parameters are used in the generative sound algorithm.
+In sonification part, the EEG cap is divided into left and right hemispheres and the data filtered to 1-16Hz and 16-40Hz, constituting 4 channels. In each channel, the spectral centroid and three Hjorth parameters are computed and transferred to pure data via OSC protocol, where these four parameters are used in the generative sound algorithm.
+
+The visual part of our project consists of meditative virtual environment presented in Oculus Rift VR. Participants connected to online EEG can control objects and speed of the environment by their attention focus.
 
 ## Ethical considerations
 
