@@ -4,9 +4,9 @@ EEG transformed into immersive sound and virtual reality environment
 ## Who
 *Filip Simonfy* - psychology/social science research/cognitive neuroscience graduate, background in mental health and data analysis, interest in contemporary audial and visual art
 
-*Michal Simonfy* - designer and visual artist with interest in interactive installations, data processing, and human-computer interaction.
+*Michal Simonfy* - designer and visual artist with interest in interactive installations, data processing, and human-computer interaction
 
-*Nikola Jajcay* - scientist at Dept. of Nonlinear Dynamics and Complex Systems, Institute of Computer Science and National Institute of Mental Health
+*Nikola Jajcay* - nonlinear pioneer and fellow data cruncher, in spare time also physicist/scientist 
 
 ## Why
 *Please describe why you do what you do. Why is your project relevant?*
