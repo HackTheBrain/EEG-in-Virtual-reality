@@ -11,7 +11,7 @@ EEG transformed into immersive sound and virtual reality environment
 
 
 ## Why
-The project embodies the EEG signal in a simple and comprehensible manner, making the participants aware of the neural activity linked to ongoing mental processes in their brain. Additionally, by possibility to control the virtual environment in real time, participants can rehearse their attentional focus, following the neurofeedback paradigm.
+The project embodies the EEG signal in a simple and comprehensible manner, making the participants aware of the neural activity linked to the ongoing mental processes in their brain. Additionally, by possibility to control the virtual environment in real time, participants can rehearse their attentional focus, following the neurofeedback paradigm.
 
 
 ## What
