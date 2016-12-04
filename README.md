@@ -1,4 +1,4 @@
-# ⚡️⚡️⚡️
+# ⚡️ EEG in VR
 EEG transformed into immersive sound and virtual reality environment
 
 ## Who
