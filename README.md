@@ -24,6 +24,8 @@ In sonification part, the EEG cap is divided into left and right hemispheres and
 
 The visual part of our project consists of meditative virtual environment presented in Oculus Rift VR. Participants connected to online EEG can control objects and speed of the environment by their attention focus.
 
+!["EEG visualized in VR"](http://i.imgur.com/50S32GZ.jpg)
+
 ## Ethical considerations
 
 Our project takes into account the essential ethical considerations regarding work with human subjects and sensitive data. Deliberate action is required in order to take part in the project, participants are not in threat of any physical or psychological harm, and no data is stored during participation. Although the scope of the project is predominantly artistic, subjects may benefit from their participation beyond the scope of their sensational experience, creating a bridge between the brain mapping technology and the general public.  
